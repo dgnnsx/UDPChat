@@ -1,2 +1,2 @@
 # UDPChat
-Chat made in Qt using UDP Protocol
+Chat built with Qt using UDP Protocol
